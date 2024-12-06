@@ -1,6 +1,6 @@
 # Senfina, Means "infinite" in Esperanto
 
-![senfina](/imgstore/senfina.png)
+![senfina](/imgstore/Senfina.png)
 
 Senfina is a fork of the unfinished Gamecube emulator Pureikyubu.
 
