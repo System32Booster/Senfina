@@ -1,11 +1,14 @@
-# プレイキューブ
+# Senfina, Means "infinite" in Esperanto
 
-![pureikyubu](/imgstore/pureikyubu.png)
+![senfina](/imgstore/senfina.png)
 
-pureikyubu is work-in-progress emulator of Nintendo GameCube console.
+Senfina is a fork of the unfinished Gamecube emulator Pureikyubu.
 
-The goal of the emulator is to research the hardware features of GameCube and reverse engineer technologies used to develop games for this platform.
-GameCube is the hardware masterpiece of Nintendo/ArtX engineers and it's a pleasure to explore this device and discover something new for yourself.
+Pureikyubu has not published a new release since 2023 and appears to have stagnated. So we decided to maintain development on it with a fork called Senfina.
+
+Senfina is unlikely to surpass Dolphin, in fact it is being created for experimental purposes, not as a goal to create a better emulator than Dolphin.
+
+If you want a truly superior gaming experience, go with Dolphin.
 
 ## Build
 
@@ -31,9 +34,9 @@ make
 
 Requirements: CMake, pthread, OpenGL, GLEW, imgui, SDL2. If cmake says that some components cannot be built, you should look for solutions on the Internet (`apt get install xxx`) as usual.
 
-## Progress
+## Gallery
 
-|![progress_bs2](/imgstore/progress_bs2.png)|![progress_ikaruga](/imgstore/progress_ikaruga.png)|![progress_luigi](/imgstore/progress_luigi.png)|
+|![wip](/imgstore/wip.png)|![wip](/imgstore/wip.png)|![wip](/imgstore/wip.png)|
 |---|---|---|
 
 ## Credits
@@ -64,4 +67,4 @@ Dolwin 0.10 Team:
 
 ## Contacts
 
-Official Discord channel: https://discord.gg/Ehz8PYA
+Mail: kurikyo0709@gmail.com
